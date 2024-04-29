@@ -1,0 +1,15 @@
+{
+  "name": "selenium_xpath",
+  "version": "1.0.0",
+  "description": "My exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Pilip",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "selenium-webdriver": "^4.20.0"
+  }
+}
